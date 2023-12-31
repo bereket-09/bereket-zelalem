@@ -100,44 +100,15 @@ I love to create design which speaks, Keep it clean, minimal and simple. and i l
 </Description>
 <Description>
 <strong>I like to Design , Code and Solve Problems</strong>
-<ul>
-    <li>
-        Web Design 
-    </li>
-    <li>
-       WebApps and Websites
-    </li>
-    <li>
-        Desktop Apps
-    </li>
-    <li>
-        Mobile Apps
-    </li>
-</ul>
+        <p>
+ Web Apps Design and Developement , Desktop and Mobile Apps , Backend and RestAPI Development , 3rd Party Integerations etc...
+</p>
 </Description>
 <Description>
 <strong>Tools</strong>
-<ul>
-    <li>
-       Figma
-    </li>
-    <li>
-       MERN Stack
-    </li>
-    <li>
-       MEAN Stack
-    </li>
-    <li>
-       Fluttur
-    </li>
-    <li>
-       Laravel
-    </li>
-    <li>
-       Etc..
-    </li>
-    
-</ul>
+        <p>
+ MERN and MEAN Stack , Flutter , Laravel , NodeJS and Express JS, Firebase , Mongodb and Mysql and Figma etc...
+</p>
 </Description>
 
             </Main>
@@ -148,18 +119,18 @@ I love to create design which speaks, Keep it clean, minimal and simple. and i l
     <Develope width={40} height={40} /> VAS Engineer
 </Title>
 <Description>
-I work in a big Telecom company to provide Value Adding Services , with quality and ease of use
+I work in a big telecom company to provide Value Adding Services with quality and ease of use
 </Description>
 <Description>
 <strong>Platforms I work on</strong>
 <p>
-USSD , SMSC , DMC , OTA , VoiceMail and CRBT etc...
+USSD , SMSC , MMSC , DMC , OTA , VoiceMail and CRBT etc...
 </p>
 </Description>
 <Description>
 <strong>SKills</strong>
 <p>
-Docker and Containers, Virtual Machines , Java and maven , System Integration , RestApi ,  Bash , DevOps
+Docker and Containers, Virtual Machines , Java and maven , System Integration , RestApi ,  Bash , DevOps , Clustors and many more
 </p>
 </Description>
 
