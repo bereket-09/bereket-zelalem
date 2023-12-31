@@ -96,18 +96,18 @@ const MySkillsPage = () => {
     <Develope width={40} height={40} /> Full Stack Developer
 </Title>
 <Description>
-I love to create design which speaks, Keep it clean, minimal and simple. and i love putting this idea into reallity using the latest and industry standard solutions
+I design impactful and minimalist solutions, bringing ideas to life with cutting-edge technology.
 </Description>
 <Description>
-<strong>I like to Design , Code and Solve Problems</strong>
+<strong>I design, code, and problem-solve.</strong>
         <p>
- Web Apps Design and Developement , Desktop and Mobile Apps , Backend and RestAPI Development , 3rd Party Integerations etc...
+ I specialize in web, desktop, and mobile app development, backend systems, and third-party integrations.
 </p>
 </Description>
 <Description>
-<strong>Tools</strong>
+<strong>Languages and Tools </strong>
         <p>
- MERN and MEAN Stack , Flutter , Laravel , NodeJS and Express JS, Firebase , Mongodb and Mysql and Figma etc...
+ MERN and MEAN stack, Flutter, Laravel, NodeJS and Express JS, Firebase, MongoDB and MySQL, as well as Figma for design.
 </p>
 </Description>
 
@@ -119,7 +119,7 @@ I love to create design which speaks, Keep it clean, minimal and simple. and i l
     <Develope width={40} height={40} /> VAS Engineer
 </Title>
 <Description>
-I work in a big telecom company to provide Value Adding Services with quality and ease of use
+ Delivering exceptional Value Adding Services with quality and ease of use in a prominent telecom company.
 </Description>
 <Description>
 <strong>Platforms I work on</strong>
@@ -130,7 +130,7 @@ USSD , SMSC , MMSC , DMC , OTA , VoiceMail and CRBT etc...
 <Description>
 <strong>SKills</strong>
 <p>
-Docker and Containers, Virtual Machines , Java and maven , System Integration , RestApi ,  Bash , DevOps , Clustors and many more
+Docker & Containers, Virtual Machines, Java & Maven, System Integration, RestAPI, Bash, DevOps, Clusters and beyond!
 </p>
 </Description>
 
