@@ -128,7 +128,7 @@ transition: height 0.5s ease, width 1s ease 0.5s;
 
 const Main = () => {
 
-    const [click, setClick] = useState(true);
+    const [click, setClick] = useState(false);
 
     const handleClick = () => setClick(!click);
 
@@ -142,7 +142,7 @@ const Main = () => {
            
             <Center click={click}>
                 <YinYang  onClick={()=> handleClick()} width={click ? 120 : 200} height={click ? 120 : 200} fill='currentColor' />
-                <span>Please click here to Continue! </span>
+                <span>Welcome 👋 , Please click here to Continue! 👆</span>
             </Center>
 
             <Contact target="_blank" href="mailto:bereketyezelalem@gmail.com">
