@@ -142,7 +142,7 @@ const Main = () => {
            
             <Center click={click}>
                 <YinYang  onClick={()=> handleClick()} width={click ? 120 : 200} height={click ? 120 : 200} fill='currentColor' />
-                <span {{ fontSize: '1.5rem', marginTop: '20px' }}>Welcome 👋 , Please click here to Continue ! </span>
+                <span style={{ fontSize: '1.5rem', marginTop: '20px' }}>Welcome 👋 , Please click here to Continue ! </span>
             </Center>
 
             <Contact target="_blank" href="mailto:bereketyezelalem@gmail.com">
