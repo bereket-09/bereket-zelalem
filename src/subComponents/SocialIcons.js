@@ -56,7 +56,7 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
-          href={"https://twitter.com/yezelalem"}
+          href={"https://twitter.com/ye_zelalem"}
         >
           <Twitter
             width={25}
@@ -73,7 +73,7 @@ const SocialIcons = (props) => {
         <a
           style={{ color: "inherit" }}
           target="_blank"
-          href={"https://facebook.com/bereket.zelalem-39"}
+          href={"https://facebook.com/bereket.zelalem.2"}
         >
           <Facebook
             width={25}
