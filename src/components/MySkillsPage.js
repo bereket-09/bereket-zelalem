@@ -101,13 +101,13 @@ I design impactful and minimalist solutions, bringing ideas to life with cutting
 <Description>
 <strong>I design, code, and problem-solve.</strong>
         <p>
-web and mobile app development, backend systems, and third-party integrations.
+Web and mobile apps , backend systems, and RestAPI integrations.
 </p>
 </Description>
 <Description>
 <strong>Languages and Tools </strong>
         <p>
- MERN and MEAN stack, Flutter, Laravel, NodeJS JS, Firebase, MongoDB and MySQL, as well as Figma for design.
+ MEAN stack, Flutter, Laravel, NodeJS, Firebase, MongoDB MySQL, as well as Figma for design.
 </p>
 </Description>
 
