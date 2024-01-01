@@ -128,7 +128,7 @@ transition: height 0.5s ease, width 1s ease 0.5s;
 
 const Main = () => {
 
-    const [click, setClick] = useState(true);
+    const [click, setClick] = useState(false);
 
     const handleClick = () => setClick(!click);
 
