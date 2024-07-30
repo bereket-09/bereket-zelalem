@@ -50,12 +50,12 @@ export const Work = [
     },
     {
         id:6,
-        name:"Responsive Navigation Menu",
-        description:"A reponsive navbar menu component in ReactJS with react-router functionalities. Built from scratch.",
-        tags:["react","react-router","css"],
+        name:"Cinima Ticket Booking System ",
+        description:"A centalized protal to allow customer book thier favorite Cinima tickets",
+        tags:["HTML","Js","css","PHP"],
         
-        demo:"http://react-responsive-navbar-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-responsive-navbar"
+        demo:"https://github.com/bereket-09/Movie-Ticket-Booking-System",
+        github:"https://github.com/bereket-09/Movie-Ticket-Booking-System"
         
     },
     
