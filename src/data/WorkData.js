@@ -3,49 +3,49 @@
 export const Work = [
     {
         id:1,
-        name:"Agency Landing Page",
-        description:"It is build on top of the React JS, with styledComponents and GSAP for smooth scrolling animations.",
-        tags:["react","gsap","styledComponents"],
+        name:"Kalab's Coffee",
+        description:"A nice Website with Admin Dashboard and landing page for a coffe shop",
+        tags:["Laravel","Filament","MYSQL"],
         
-        demo:"https://agency-website-eta.vercel.app/",
-        github:"https://github.com/codebucks27/Agency-website"
+        demo:"https://kalabcoffee.com",
+        github:"https://github.com/bereket-09/Kalab-coffee"
     },
     {
         id:2,
-        name:"Job listing website",
-        description:"A Job listing website build in ReactJS. With searching and filtering functionalities.",
-        tags:["react","sass"],
+        name:"ERP-Based-Clinic-Management-System-Laravel",
+        description:"An ERP Based Clinic Managment System.",
+        tags:["Laravel","MYSQL"],
         
-        demo:"http://react-job-listing-website.codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/react-job-listing-website"
+        demo:"https://github.com/bereket-09/ERP-Based-Clinic-Management-System-Laravel",
+        github:"https://github.com/bereket-09/ERP-Based-Clinic-Management-System-Laravel"
         
     },
     {
         id:3,
-        name:"Dev.to Clone",
+        name:"Multi Vendor Ecommerce",
         description:"A clone of Dev.to build using ReactJS. With realtime fetching of articles from dev.to using API.",
-        tags:["react","api","sass"],
+        tags:["MERN Stack","Socket.io","SMPP"],
         
-        demo:"http://devto-clone-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/devto-clone"
+        demo:"https://e-shop-mern-rho.vercel.app",
+        github:"https://github.com/bereket-09/E-Shop-MERN"
     },
     {
         id:4,
-        name:"Sidebar Menu",
-        description:"A cool looking sidebar menu build using ReactJS and styledComponents.It has really smooth animations.",
-        tags:["react","styledComponents","react-router"],
+        name:"Habesha Bulk Markting",
+        description:"A Multi Functional Bulk Marketing Tool",
+        tags:["Laravel","Node JS","BULK SMS and SMPP"],
         
         demo:"https://react-sidebar.vercel.app/",
-        github:"https://github.com/codebucks27/react-sidebar"
+        github:"https://github.com/bereket-09/Habesha-Bulk-SMS-Manager"
        
     },{
         id:5,
-        name:"Todo App(React + Redux)",
-        description:"A todo app build using Redux-toolkit and framer-motion for smooth animations.",
-        tags:["react","redux","framer-motion"],
+        name:"SMS Based Survey Portal",
+        description:"An Interactive SMS Based Survey Portal with Front end and Backend",
+        tags:["Angular","Node JS","SMPP"],
         
-        demo:"http://react-redux-todo-app-git-main-codebucks27.vercel.app/",
-        github:"https://github.com/codebucks27/React-Redux-Todo-App"
+        demo:"https://github.com/bereket-09/SMS-SURVEY-PORTAL",
+        github:"https://github.com/bereket-09/SMS-SURVEY-PORTAL"
         
     },
     {
