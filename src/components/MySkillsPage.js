@@ -116,7 +116,7 @@ Web and mobile apps , backend systems, and RestAPI integrations.
 
             <Main>
 <Title>
-    <Develope width={40} height={40} /> VAS Engineer
+    <Develope width={40} height={40} /> VAS Platform Engineer
 </Title>
 <Description>
  Delivering exceptional Value Adding Services with quality and ease of use in a prominent telecom company.
