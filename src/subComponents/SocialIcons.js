@@ -82,7 +82,7 @@ const SocialIcons = (props) => {
           />
         </a>
       </motion.div>
-      <motion.div
+      {/* <motion.div
         initial={{scale:0 }}
         animate={{ scale: [0, 1, 1.5, 1] }}
         transition={{ type: "spring", duration: 1, delay: 1.6 }}
@@ -98,7 +98,7 @@ const SocialIcons = (props) => {
             fill={props.theme === "dark" ? DarkTheme.text : DarkTheme.body}
           />
         </a>
-      </motion.div>
+      </motion.div> */}
 
       <Line
         color={props.theme}
