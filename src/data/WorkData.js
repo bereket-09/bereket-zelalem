@@ -12,7 +12,7 @@ export const Work = [
     },
       {
         id:2,
-        name:"Kemer Learnign Managment System",
+        name:"Kemer Learning Managment System",
         description:"E-Learnging Platform with full course sell and Chapa Integerations.",
         tags:["Wordpress","LMS"],
         
