@@ -71,13 +71,14 @@ const AboutPage = () => {
         <Spaceman>
             <img src={astronaut} alt="spaceman" />
         </Spaceman>    
-        <Main>
-        I'm a Full stack developer and VAS Engineer located in Ethiopia. I love to create simple yet beautiful websites and apps with great user experience and maximized functionality.
-<br /> <br/>
-I'm interested in the whole Full stack library Like trying new things and building great projects. I'm an Full Stack developer and VAS engineer in Safaricom Ethiopia and also part time freelancer. I love to write code and explore new things..
-<br/> <br/>
-I believe everything is an Art when you put your consciousness in it. You can connect with me via social links.
-        </Main>
+   <Main>
+  I'm a Full Stack Developer and VAS Engineer based in Ethiopia. I enjoy building clean, functional websites and apps that deliver great user experiences while maintaining simplicity and elegance.
+  <br /> <br />
+  I'm passionate about the full spectrum of Full Stack development—always exploring new tools, libraries, and ideas to create meaningful and innovative projects. I currently work at Safaricom Ethiopia, and I also take on freelance projects in my spare time.
+  <br /> <br />
+  I believe that everything becomes art when you approach it with intention and creativity. Feel free to connect with me through my social links!
+</Main>
+
 
         <BigTitle text="ABOUT" top="10%" left="5%" />
 
